@@ -1,2 +1,2 @@
 # Quantum-Algorithms
-Quantum algorithm implementation form scratch
+Quantum algorithm implementation form scratch using Qiskit
